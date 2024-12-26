@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="movies_name">Movie Title</string>
+    <string name="description">Description</string>
+    <string name="share">Share</string>
+    <string name="about_me">About Me</string>
+    <string name="nurul_hadits">Nurul Hadits</string>
+    <string name="adisxsd_gmail_com">adisxsd@gmail.com</string>
+    <string name="i_am_a_second_year_information_technology_student_at_universitas_jember_class_of_2022_i_m_passionate_about_technology_and_aiming_for_a_career_in_web_and_mobile_development">I am a second-year Information Technology student at Universitas Jember (Class of 2022). I\'m passionate about technology and aiming for a career in web and mobile development.</string>
+
+    <!-- Movie titles -->
+    <string-array name="data_name">
+        <item>Avengers: Infinity War</item>
+        <item>Avengers: Endgame</item>
+        <item>Avengers: Age of Ultron</item>
+        <item>Spider-Man: No Way Home</item>
+        <item>Black Panther</item>
+        <item>Thor: Ragnarok</item>
+        <item>Captain Marvel</item>
+        <item>Ant-Man and The Wasp</item>
+        <item>Doctor Strange</item>
+        <item>Shang-Chi and the Legend of the Ten Rings</item>
+    </string-array>
+
+    <!-- Movie descriptions -->
+    <string-array name="data_description">
+        <item>The Avengers must team up with the Guardians of the Galaxy to stop Thanos from collecting all six Infinity Stones.</item>
+        <item>The remaining Avengers and their allies must work to reverse the damage caused by Thanos in the previous film.</item>
+        <item>The Avengers team up to stop Ultron, an artificial intelligence determined to eradicate humanity.</item>
+        <item>Spider-Man teams up with Doctor Strange to face threats from other universes.</item>
+        <item>T’Challa returns to Wakanda to take the throne as king but faces challenges from a powerful enemy.</item>
+        <item>Thor must fight to save his home Asgard from destruction while teaming up with Hulk and Valkyrie.</item>
+        <item>Captain Marvel becomes one of the universe most powerful heroes and helps the Avengers in their fight.</item>
+        <item>Scott Lang teams up with Hope van Dyne to uncover secrets from their past.</item>
+        <item>A former neurosurgeon must tap into the mystical arts to become the Sorcerer Supreme and protect Earth.</item>
+        <item>Shang-Chi confronts the past he thought he left behind when he is drawn into the Ten Rings organization.</item>
+    </string-array>
+
+    <!-- Placeholder for movie images (update with actual drawable resources) -->
+    <integer-array name="data_photo">
+        <item>@drawable/img_1</item>
+        <item>@drawable/img_2</item>
+        <item>@drawable/img_3</item>
+        <item>@drawable/img_4</item>
+        <item>@drawable/img_5</item>
+        <item>@drawable/img_6</item>
+        <item>@drawable/img_7</item>
+        <item>@drawable/img_8</item>
+        <item>@drawable/img_9</item>
+        <item>@drawable/img_10</item>
+    </integer-array>
+
+    <string-array name="data_long_description">
+        <item>"Avengers: Infinity War" (2018) - The Avengers face their biggest threat yet as Thanos, a powerful being from Titan, sets out to collect all six Infinity Stones to impose his will on the universe. With his army, Thanos aims to wipe out half of all life to bring "balance." The Avengers, along with the Guardians of the Galaxy, must unite to stop him before he completes his quest. Each stone brings Thanos closer to his ultimate goal, and the heroes must sacrifice everything to stop the devastation.</item>
+
+        <item>"Avengers: Endgame" (2019) - After the catastrophic events of "Infinity War," where Thanos snapped his fingers and wiped out half the universe, the Avengers are left in ruins. The survivors, including Tony Stark and Steve Rogers, struggle with their failure. Five years later, a chance for redemption arises as the team reunites to execute a time-heist, going back to key moments in the past to retrieve the Infinity Stones and undo Thanos destruction. The final battle pushes them to their limits, with the future of the universe at stake.</item>
+
+        <item>"Avengers: Age of Ultron" (2015) - When Tony Stark and Bruce Banner try to jumpstart a dormant peacekeeping program, things go terribly wrong. Ultron, an artificial intelligence, decides that humanity itself is the biggest threat to peace and sets out to eradicate it. The Avengers must band together once more to stop this deadly new enemy, who won’t rest until he has wiped out human life. With the introduction of new heroes like Scarlet Witch and Vision, the stakes are higher than ever as the team fights to prevent mass destruction.</item>
+
+        <item>"Spider-Man: No Way Home" (2021) - Following the events of "Spider-Man: Far From Home," Peter Parker identity as Spider-Man has been revealed to the world, turning his life upside down. Desperate to return to anonymity, Peter seeks the help of Doctor Strange, but their spell goes awry, tearing open the multiverse. Villains from alternate dimensions, including Doctor Octopus and Green Goblin, cross over into Peter s reality. Now, Spider-Man must face these powerful adversaries while learning what it means to truly be a hero — and the heavy cost that comes with it.</item>
+
+        <item>"Black Panther" (2018) - T Challa returns home to the African nation of Wakanda to take his rightful place as king after the death of his father. However, when a powerful adversary, Erik Killmonger, emerges, T Challa is tested as both king and the Black Panther. With Wakanda s fate and the world s balance at risk, T Challa must rely on his allies and unleash the full power of the Black Panther to defeat his enemies and protect the legacy of his people. Wakanda advanced technology and rich culture take center stage as it faces external threats and internal conflict.</item>
+
+        <item>"Thor: Ragnarok" (2017) - Imprisoned on the distant planet Sakaar, Thor finds himself in a gladiatorial contest against none other than the Hulk, his former ally. Meanwhile, the goddess of death, Hela, emerges in Asgard, determined to rule the realms. Thor must escape captivity, assemble a team including Valkyrie and Loki, and stop Ragnarok, the prophesied destruction of Asgard. But without his hammer, Mjolnir, and against an enemy as powerful as Hela, Thor’s strength and leadership are pushed to the brink.</item>
+
+        <item>"Captain Marvel" (2019) - Set in the 1990s, "Captain Marvel" follows Carol Danvers as she becomes one of the most powerful heroes in the universe. After crashing on Earth, Carol begins to uncover forgotten memories of her life as a human before becoming a Kree warrior. As she pieces together her past, she realizes her true identity and destiny as Captain Marvel. With the help of Nick Fury and her fellow soldiers, Carol battles the shapeshifting Skrulls and learns to harness her extraordinary powers to prevent an intergalactic war.</item>
+
+        <item>"Ant-Man and the Wasp" (2018) - Scott Lang, balancing his responsibilities as a father and a superhero, once again dons the Ant-Man suit. Alongside Hope van Dyne (now the Wasp) and Hank Pym, Scott embarks on a mission to rescue Hope s mother, Janet, from the quantum realm. As they unlock secrets about the quantum world, they face new foes and dangerous challenges that force them to rely on their size-shifting abilities more than ever. Humor and action blend in this thrilling journey that expands the boundaries of the Marvel universe.</item>
+
+        <item>"Doctor Strange" (2016) - Dr. Stephen Strange, a brilliant but egotistical neurosurgeon, has his life turned upside down when a car accident leaves his hands severely injured. Desperate to regain his skills, Strange embarks on a journey of healing that leads him to the mystical Kamar-Taj. Under the guidance of the Ancient One, Strange learns to harness the mystic arts and discovers that he must protect the Earth from dark forces. As he grows in power, Strange must confront Dormammu, a being of pure evil, to save not only his world but countless others.</item>
+
+        <item>"Shang-Chi and the Legend of the Ten Rings" (2021) - Shang-Chi, a master of martial arts, has been living a quiet life in San Francisco, but his past catches up with him when he is drawn back into the web of his father s mysterious Ten Rings organization. As Shang-Chi uncovers the secrets of the Ten Rings, he must confront his father s dark legacy and embrace his destiny as a hero. With the mystical powers of the Ten Rings at stake, Shang-Chi faces off against his father and otherworldly threats in a battle that will determine the future of the organization and his own place in the world.</item>
+    </string-array>
+
+</resources>
